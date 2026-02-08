@@ -11,6 +11,12 @@
 - **Phase 3:** MLOps with SageMaker Pipelines (Jun - Jul)
 - **Phase 4:** AI Auditing & Compliance (Aug - Sep)
 
+## 📂 Project Structure
+- [ ] **Phase 01:** [AWS Basics & Terraform](./Phase-01-AWS-Foundation-IaC/) (Feb 09 - Mar 31)
+- [ ] **Phase 02:** [DevOps & Security Guardrails](./Phase-02-DevOps-Security-Guardrails/) (Apr 01 - May 31)
+- [ ] **Phase 03:** [MLOps & SageMaker Pipelines](./Phase-03-MLOps-SageMaker/) (Jun 01 - Jul 31)
+- [ ] **Phase 04:** [AI Compliance & Auditing](./Phase-04-Compliance-Auditing-Monitoring/) (Aug 01 - Sep 30)
+
 ## 🛠️ Core Services I am Building:
 1. Automated Cloud Networking (Terraform)
 2. Security & GDPR Guardrails (IAM/KMS)
