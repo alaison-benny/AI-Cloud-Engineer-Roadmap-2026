@@ -14,7 +14,7 @@ sudo rm -rf <repo name>
 
 
 
-# step 2: new ഫയൽ നിർമ്മിക്കുക
+# step 2: new ഫയൽ നിർമ്മിkkan ayi follow below steps
 
 # step 3: റെപ്പോസിറ്ററി ക്ലോൺ ചെയ്യുക:
 
