@@ -10,7 +10,7 @@
 
 # step 1: clone chaitha repo delete cheyyan from system
 
-sudo rm -rf <repo name>
+sudo rm -rf <repo name
 
 
 
@@ -18,11 +18,11 @@ sudo rm -rf <repo name>
 
 # step 3: റെപ്പോസിറ്ററി ക്ലോൺ ചെയ്യുക:
 
-git clone <repo https link>
+git clone <repo https link
 
 # step 4: ആ ഫോൾഡറിലേക്ക് മാറുക:
 
-cd <repo name>
+cd <repo name
 
 # step 5: Repo yil new floder nirmikkuka 
 
