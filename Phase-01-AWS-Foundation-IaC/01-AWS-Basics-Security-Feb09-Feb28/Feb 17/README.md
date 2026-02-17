@@ -17,7 +17,8 @@
 * ഇത് 'Public Access Block' സെറ്റിംഗ്‌സ് കൂടി പരിശോധിച്ചാണ് റിസൾട്ട് നൽകുന്നത്.
 
 
- **`delete-all-buckets.py`**:
+ 
+4. **`delete-all-buckets.py`**:
  script for deleting all s3 buckets
 
 
