@@ -1,6 +1,6 @@
 # S3 Bucket Management with Boto3- Python script
 
-ഈ പ്രോജക്റ്റിൽ AWS S3 ബക്കറ്റുകൾ Manage ചെയ്യുന്നതിനായി 3 Python scripts below given
+ഈ പ്രോജക്റ്റിൽ AWS S3 ബക്കറ്റുകൾ Manage ചെയ്യുന്നതിനായി 4 Python scripts below given
 ## സ്‌ക്രിപ്റ്റുകളെക്കുറിച്ചുള്ള വിവരങ്ങൾ
 
 1. **`alu-new-bc-created-by-scrpt-2026.py`**:
@@ -16,6 +16,9 @@
 * ബക്കറ്റുകൾ 'Public' ആണോ അതോ 'Private' ആണോ എന്ന് പരിശോധിക്കുന്നു.
 * ഇത് 'Public Access Block' സെറ്റിംഗ്‌സ് കൂടി പരിശോധിച്ചാണ് റിസൾട്ട് നൽകുന്നത്.
 
+
+ **`delete-all-buckets.py`**:
+ script for deleting all s3 buckets
 
 
 ---
