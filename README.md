@@ -1,40 +1,26 @@
-# 🛡️ AI Cloud & DevOps Compliance Engineer (2026 Roadmap)
+# AI Cloud Engineer Roadmap 2026 🚀
 
-യൂറോപ്യൻ ക്ലയന്റുകൾക്കായി **EU AI Act** അനുസരിച്ചുള്ള 'Compliance-Led Automated MLOps Pipelines' നിർമ്മിക്കാൻ ലക്ഷ്യമിട്ടുള്ള എന്റെ 234 ദിവസത്തെ ലേണിംഗ് ജേർണി.
-
-## 🎯 My Vision
-2026 സെപ്റ്റംബർ 30-ഓടെ പൈത്തൺ കോഡിംഗിന് പകരം ക്ലൗഡ് ഇൻഫ്രാസ്ട്രക്ചർ ആർക്കിടെക്ചറിലും എം.എൽ.ഓപ്സിലും (MLOps) വൈദഗ്ദ്ധ്യം നേടുക.
-
-## 📊 Roadmap Overview
-- **Phase 1:** AWS Basics & Infrastructure as Code (Feb - Mar)
-- **Phase 2:** DevOps & GDPR Security (Apr - May)
-- **Phase 3:** MLOps with SageMaker Pipelines (Jun - Jul)
-- **Phase 4:** AI Auditing & Compliance (Aug - Sep)
-
-## 📂 Project Structure
-- [ ] **Phase 01:** [AWS Basics & Terraform](./Phase-01-AWS-Foundation-IaC/) (Feb 09 - Mar 31)
-- [ ] **Phase 02:** [DevOps & Security Guardrails](./Phase-02-DevOps-Security-Guardrails/) (Apr 01 - May 31)
-- [ ] **Phase 03:** [MLOps & SageMaker Pipelines](./Phase-03-MLOps-SageMaker/) (Jun 01 - Jul 31)
-- [ ] **Phase 04:** [AI Compliance & Auditing](./Phase-04-Compliance-Auditing-Monitoring/) (Aug 01 - Sep 30)
-
-## 🛠️ Core Services I am Building:
-1. Automated Cloud Networking (Terraform)
-2. Security & GDPR Guardrails (IAM/KMS)
-3. Bias Auditing Reports (SageMaker Clarify)
-4. Drift Monitoring & Automated Business Reporting
-
-   ### 🛠 Core Skills Focus:
-- **IaC:** Terraform
-- **MLOps:** AWS SageMaker Pipelines
-- **Security:** GDPR, IAM Guardrails
-- **Compliance:** SageMaker Clarify (Bias Auditing)
-- **Monitoring:** Drift & Performance Tracking
+This repository tracks my journey to becoming an AI Cloud Engineer in 2026. It contains structured documentation of tasks, hands-on labs, and theoretical concepts.
 
 ---
-🛠 ഓരോ ദിവസവും നിങ്ങൾ ചെയ്യേണ്ടത്:
-ഒരു പുതിയ ഫയൽ ഉണ്ടാക്കുക: അന്ന് പഠിക്കുന്ന കാര്യങ്ങൾക്കനുസരിച്ച് (ഉദാഹരണത്തിന് Feb-13-index.html അല്ലെങ്കിൽ Mar-06-network.tf).
-ഓരോ ദിവസവും സബ് ഫോൾഡറുകളിൽ ആ ദിവസത്തെ തീയതി വെച്ച് ലളിതമായ .md (Markdown) ഫയലുകൾ ഉണ്ടാക്കി അതിൽ സ്ക്രീൻഷോട്ടുകൾ ചേർക്കുക.
 
-Commit Message: കൃത്യമായി നൽകുക. (ഉദാഹരണത്തിന്: git commit -m "Day 5: Hosted Static Website on S3").
+## 📂 Comprehensive Index
 
-README അപ്‌ഡേറ്റ് ചെയ്യുക: ടേബിളിൽ അന്ന് ചെയ്ത കാര്യത്തിന് നേരെ ✅ മാർക്ക് ഇടുക.
+### [Phase-01-AWS-Foundation-IaC](./Phase-01-AWS-Foundation-IaC/)
+Focuses on AWS core infrastructure and security fundamentals.
+
+* **[01-AWS-Basics-Security-Feb09-Feb28](./Phase-01-AWS-Foundation-IaC/01-AWS-Basics-Security-Feb09-Feb28/)**
+    * **[feb 09 task](./Phase-01-AWS-Foundation-IaC/01-AWS-Basics-Security-Feb09-Feb28/feb%2009%20task/)** - Initial setup and cloud introduction.
+    * **[Feb 10 task](./Phase-01-AWS-Foundation-IaC/01-AWS-Basics-Security-Feb09-Feb28/Feb%2010%20task/)** - Security configurations and IAM basics.
+    * **[Feb 10 task project IDX](./Phase-01-AWS-Foundation-IaC/01-AWS-Basics-Security-Feb09-Feb28/Feb%2010%20task%20project%20IDX/)** - Development environment setup using Project IDX.
+    * **[Feb 17](./Phase-01-AWS-Foundation-IaC/01-AWS-Basics-Security-Feb09-Feb28/Feb%2017/)** - Advanced networking and AWS labs.
+    * **[FEB 19/K8 PODS](./Phase-01-AWS-Foundation-IaC/01-AWS-Basics-Security-Feb09-Feb28/FEB%2019/K8%20PODS/)** - Deep dive into Kubernetes Pods and hands-on demonstrations
+---
+
+## 🛠 എങ്ങനെ ഉപയോഗിക്കാം (How to Navigate)
+1. **English Index** നോക്കി നിങ്ങൾക്ക് ആവശ്യമുള്ള ഫേസ് അല്ലെങ്കിൽ തീയതി തിരഞ്ഞെടുക്കുക.
+2. ഓരോ ഫോൾഡറിനുള്ളിലും അതാത് ദിവസത്തെ ടാസ്ക്കുകൾക്കും കോഡുകൾക്കുമായി പ്രത്യേക `README.md` ഫയലുകൾ നൽകിയിട്ടുണ്ട്.
+3. YAML ഫയലുകൾ പരീക്ഷിച്ചു നോക്കാൻ `kubectl apply -f` കമാൻഡ് ഉപയോഗിക്കുക.
+
+---
+© 2026 AI Cloud Engineer Journey | [Alaison Benny](https://github.com/alaison-benny)
